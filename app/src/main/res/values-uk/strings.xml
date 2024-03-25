@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">8Android Робота з графікою</string>
+    <string name="emp_name">Імя:</string>
+    <string name="emp_position">Профессія: </string>
+    <string name="emp_age">Вік: </string>
+</resources>
